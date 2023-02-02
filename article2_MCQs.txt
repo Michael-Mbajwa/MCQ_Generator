@@ -1,0 +1,642 @@
+Multiple Choice Questions generated for the provided article: article2.txt.
+
+Question 1 -> Egyptian ________ built houses using bricks made of mud from the Nile mixed with chopped straw.
+	a) Houses egyptians
+
+Question 2 -> About 5,000 years ago, they noticed that a star now called Sirius appeared shortly before the ________ began to flood.
+	a) Nile
+	b) Antarctica
+	c) headwaters
+	d) Adriatic
+	e) western coast
+
+Question 3 -> These beautiful blue stones were used in jewelry.The ________ had fish and other wildlife that Egyptians wanted.
+	a) headwaters
+	b) Adriatic
+	c) western coast
+	d) Antarctica
+	e) Nile
+
+Question 4 -> The ________ provided so well for Egyptians that sometimes they had surpluses, or more goods than they needed.
+	a) Adriatic
+	b) Nile
+	c) western coast
+	d) Antarctica
+	e) headwaters
+
+Question 5 -> Nubia was the Egyptian name for the area of the upper ________ that had the richest gold mines in Africa.
+	a) western coast
+	b) Adriatic
+	c) Nile
+	d) Antarctica
+	e) headwaters
+
+Question 6 -> Farmers did the heavy labor of hauling stone during the season when the ________ flooded their fields.
+	a) headwaters
+	b) western coast
+	c) Antarctica
+	d) Adriatic
+	e) Nile
+
+Question 7 -> The river is called the upper ________ in the south and the lower ________ in the north.
+	a) Adriatic
+	b) Antarctica
+	c) western coast
+	d) headwaters
+	e) Nile
+
+Question 8 -> More adventurous hunters speared hippopotamuses and crocodiles along the ________.
+	a) headwaters
+	b) Adriatic
+	c) Antarctica
+	d) western coast
+	e) Nile
+
+Question 9 -> The burial chambers were hidden in mountains near the ________.
+	a) Antarctica
+	b) Nile
+	c) headwaters
+	d) Adriatic
+	e) western coast
+
+Question 10 -> Each year the ________’s floods washed away land boundaries.
+	a) western coast
+	b) Antarctica
+	c) headwaters
+	d) Adriatic
+	e) Nile
+
+Question 11 -> The floods deposited rich soil along the ________’s shores.
+	a) western coast
+	b) headwaters
+	c) Nile
+	d) Adriatic
+	e) Antarctica
+
+Question 12 -> In the delta, the ________ divides into many streams.
+	a) headwaters
+	b) Nile
+	c) Adriatic
+	d) western coast
+	e) Antarctica
+
+Question 13 -> In the south the ________ churns with cataracts.
+	a) western coast
+	b) headwaters
+	c) Antarctica
+	d) Nile
+	e) Adriatic
+
+Question 14 -> Near the sea the ________ branches into a delta.
+	a) Adriatic
+	b) western coast
+	c) Antarctica
+	d) headwaters
+	e) Nile
+
+Question 15 -> The ________ then became a highway.
+	a) Nile
+	b) Adriatic
+	c) headwaters
+	d) Antarctica
+	e) western coast
+
+Question 16 -> Rulers during the ________ also faced challenges from outside Egypt.
+	a) Justinian
+	b) Charles V
+	c) Shogunate
+	d) Middle kingdom
+	e) Arnor
+
+Question 17 -> This period of Egyptian history is called the ________.
+	a) Shogunate
+	b) Justinian
+	c) Charles V
+	d) Middle kingdom
+	e) Arnor
+
+Question 18 -> Because the pharaoh was thought to be a god, government and religion were not separate in ________.
+	a) Sumerians
+	b) middle ages
+	c) prehistory
+	d) Ancient egypt
+	e) Bronze Age
+
+Question 19 -> ________ had no money, so people exchanged goods that they grew or made.
+	a) Sumerians
+	b) middle ages
+	c) prehistory
+	d) Ancient egypt
+	e) Bronze Age
+
+Question 20 -> More than 30 dynasties ruled ________.
+	a) Bronze Age
+	b) Sumerians
+	c) prehistory
+	d) middle ages
+	e) Ancient egypt
+
+Question 21 -> The ________ the Nile is 4,160 miles long—the world’s ________.
+	a) Longest river
+
+Question 22 -> For centuries, heavy rains in ________ caused the Nile to flood every summer.
+	a) Ethiopia
+	b) Mauritania
+	c) Armenia
+	d) Tibet
+	e) Burma
+
+Question 23 -> It begins near the equator in ________ and flows north to the Mediterranean Sea.
+	a) Central America
+	b) Africa
+	c) African nations
+	d) Southeast Asia
+	e) Americas
+
+Question 24 -> They called this region the ________ because of the fertile soil that the floods deposited.
+	a) Black land
+
+Question 25 -> ________ says a king named Narmer united Upper and Lower Egypt.
+	a) Legend
+	b) epic
+	c) grand master
+	d) top player
+	e) legendary status
+
+Question 26 -> By about 2130 B.C., Egyptian kings began to lose their power to local rulers of the provinces.
+	a) B.c.
+	b) Fraser Valley
+	c) Windsor
+	d) Pennsylvania
+	e) Nova Scotia
+
+Question 27 -> Beginning about 3000 B.C., Egyptians developed a writing system using hieroglyphs.
+	a) Fraser Valley
+	b) Nova Scotia
+	c) Pennsylvania
+	d) B.c.
+	e) Windsor
+
+Question 28 -> About 2630 B.C., King Djoser built a much larger pyramid over his tomb.
+	a) B.c.
+	b) Windsor
+	c) Pennsylvania
+	d) Fraser Valley
+	e) Nova Scotia
+
+Question 29 -> The first dynasty of the Egyptian empire began about 2925 B.C.
+	a) Pennsylvania
+	b) B.c.
+	c) Fraser Valley
+	d) Nova Scotia
+	e) Windsor
+
+Question 30 -> Egyptian ________ grew a large variety of foods.
+	a) Crops ancient egyptians
+
+Question 31 -> The ________ fed Egyptian civilization for hundreds of years.
+	a) little island
+	b) steppes
+	c) northward
+	d) Nile river
+	e) mountain range
+
+Question 32 -> ________ simply went to the roof to cool off after sunset.
+	a) Poorer egyptians
+
+Question 33 -> Unlike the ________ and Euphrates, the Nile River flooded at the same time every year, so farmers could predict when to plant their crops.
+	a) Khanate
+	b) African coast
+	c) Hiawatha
+	d) Tigris
+	e) lost cities
+
+Question 34 -> Historians divide ancient Egyptian dynasties into the ________, the Middle Kingdom, and the New Kingdom.
+	a) Justinian
+	b) Greek world
+	c) Old kingdom
+	d) Renaissance
+	e) First Era
+
+Question 35 -> The ________ started about 2575 B.C., when the Egyptian empire was gaining strength.
+	a) Old kingdom
+	b) Renaissance
+	c) Greek world
+	d) Justinian
+	e) First Era
+
+Question 36 -> ________ cut the stems into strips, pressed them, and dried them into sheets that could be rolled into scrolls.
+	a) Zoroastrians
+	b) Pakistanis
+	c) Egyptians
+	d) Armenians
+	e) Copts
+
+Question 37 -> ________ believed that if a tomb was robbed, the person buried there could not have a happy afterlife.
+	a) Zoroastrians
+	b) Egyptians
+	c) Armenians
+	d) Pakistanis
+	e) Copts
+
+Question 38 -> The ________ also developed a paperlike material called papyrus papyrus from a reed of the same name.
+	a) Zoroastrians
+	b) Armenians
+	c) Egyptians
+	d) Pakistanis
+	e) Copts
+
+Question 39 -> ________ believed that if the pharaoh and his subjects honored the gods, their lives would be happy.
+	a) Egyptians
+	b) Armenians
+	c) Copts
+	d) Zoroastrians
+	e) Pakistanis
+
+Question 40 -> Their army conquered by using better weapons and horse-drawn chariots, which were new to ________.
+	a) Egyptians
+	b) Pakistanis
+	c) Zoroastrians
+	d) Armenians
+	e) Copts
+
+Question 41 -> This prosperity made life easier and provided greater opportunities for many ________.
+	a) Copts
+	b) Armenians
+	c) Pakistanis
+	d) Zoroastrians
+	e) Egyptians
+
+Question 42 -> After about 100 years, the ________ drove out the Hyksos and began the New Kingdom.
+	a) Egyptians
+	b) Pakistanis
+	c) Copts
+	d) Zoroastrians
+	e) Armenians
+
+Question 43 -> To go on the river, ________ made lightweight rafts by binding together reeds.
+	a) Copts
+	b) Armenians
+	c) Zoroastrians
+	d) Pakistanis
+	e) Egyptians
+
+Question 44 -> The ________ wanted valuable metals that were not found in the black land.
+	a) Armenians
+	b) Egyptians
+	c) Copts
+	d) Zoroastrians
+	e) Pakistanis
+
+Question 45 -> ________ created a government that divided the empire into 42 provinces.
+	a) Pakistanis
+	b) Zoroastrians
+	c) Egyptians
+	d) Copts
+	e) Armenians
+
+Question 46 -> ________ believed that if the gods were angry, the Nile would not flood.
+	a) Armenians
+	b) Copts
+	c) Pakistanis
+	d) Zoroastrians
+	e) Egyptians
+
+Question 47 -> Based on that, ________ developed the world’s first practical calendar.
+	a) Pakistanis
+	b) Armenians
+	c) Egyptians
+	d) Copts
+	e) Zoroastrians
+
+Question 48 -> A few ________ traveled to the upper Nile to trade with other Africans.
+	a) Egyptians
+	b) Zoroastrians
+	c) Copts
+	d) Armenians
+	e) Pakistanis
+
+Question 49 -> Geometric shapes such as squares and triangles were sacred to ________.
+	a) Pakistanis
+	b) Armenians
+	c) Zoroastrians
+	d) Copts
+	e) Egyptians
+
+Question 50 -> Early ________ created a hieroglyphic system with about 700 characters.
+	a) Copts
+	b) Zoroastrians
+	c) Egyptians
+	d) Pakistanis
+	e) Armenians
+
+Question 51 -> Eventually, ________ equipped their reed boats with sails and oars.
+	a) Egyptians
+	b) Zoroastrians
+	c) Armenians
+	d) Copts
+	e) Pakistanis
+
+Question 52 -> Almost all ________ married when they were in their early teens.
+	a) Armenians
+	b) Pakistanis
+	c) Egyptians
+	d) Copts
+	e) Zoroastrians
+
+Question 53 -> ________ often painted walls white to reflect the blazing heat.
+	a) Copts
+	b) Armenians
+	c) Pakistanis
+	d) Zoroastrians
+	e) Egyptians
+
+Question 54 -> For these reasons, early ________ stayed close to home.
+	a) Armenians
+	b) Copts
+	c) Egyptians
+	d) Pakistanis
+	e) Zoroastrians
+
+Question 55 -> Most ________ slept on mats covered with linen sheets.
+	a) Copts
+	b) Zoroastrians
+	c) Egyptians
+	d) Armenians
+	e) Pakistanis
+
+Question 56 -> With them, ________ created some of the first books.
+	a) Egyptians
+	b) Zoroastrians
+	c) Copts
+	d) Pakistanis
+	e) Armenians
+
+Question 57 -> ________ also grew the materials for their clothes.
+	a) Armenians
+	b) Pakistanis
+	c) Copts
+	d) Egyptians
+	e) Zoroastrians
+
+Question 58 -> The ________ developed some of the first geometry.
+	a) Pakistanis
+	b) Egyptians
+	c) Armenians
+	d) Copts
+	e) Zoroastrians
+
+Question 59 -> ________ looked for copper as early as 6000 B.C.
+	a) Copts
+	b) Zoroastrians
+	c) Armenians
+	d) Pakistanis
+	e) Egyptians
+
+Question 60 -> Eventually, ________ stopped building pyramids.
+	a) Pakistanis
+	b) Copts
+	c) Egyptians
+	d) Zoroastrians
+	e) Armenians
+
+Question 61 -> ________ also wove marsh grasses into sandals.
+	a) Egyptians
+	b) Armenians
+	c) Pakistanis
+	d) Copts
+	e) Zoroastrians
+
+Question 62 -> An estimated 20,000 ________ worked on it.
+	a) Egyptians
+	b) Zoroastrians
+	c) Copts
+	d) Armenians
+	e) Pakistanis
+
+Question 63 -> ________ also captured quail with nets.
+	a) Egyptians
+	b) Pakistanis
+	c) Copts
+	d) Armenians
+	e) Zoroastrians
+
+Question 64 -> The ________ also mined lapis lazuli.
+	a) Copts
+	b) Egyptians
+	c) Zoroastrians
+	d) Pakistanis
+	e) Armenians
+
+Question 65 -> ________ mined precious stones too.
+	a) Zoroastrians
+	b) Egyptians
+	c) Pakistanis
+	d) Armenians
+	e) Copts
+
+Question 66 -> The ________ took nearly 20 years to build.
+	a) excavated
+	b) Great pyramid
+	c) Giza
+	d) 5000 years ago
+	e) Gobekli Tepe
+
+Question 67 -> Building the ________ was hard work.
+	a) Gobekli Tepe
+	b) Giza
+	c) 5000 years ago
+	d) Great pyramid
+	e) excavated
+
+Question 68 -> It combined the red ________ of Lower Egypt with the white ________ of Upper Egypt.
+	a) Crown
+	b) doublet
+	c) scabbard
+	d) signet ring
+	e) House Lannister
+
+Question 69 -> A nomadic people called the ________ invaded Egypt from the northeast.
+	a) Hyksos
+
+Question 70 -> During the ________, pharaohs began building more secret tombs in an area called the Valley of the Kings.
+	a) New kingdom
+	b) true ruler
+	c) great empire
+	d) new emperor
+	e) old gods
+
+Question 71 -> Only a secret tomb built for a ________ pharaoh was ever found with much of its treasure untouched.
+	a) old gods
+	b) New kingdom
+	c) great empire
+	d) new emperor
+	e) true ruler
+
+Question 72 -> ________, Black Land The ancient Egyptians lived in narrow bands of land on each side of the Nile.
+	a) Red land
+
+Question 73 -> The ________ was the barren desert beyond the fertile region.
+	a) Red land
+
+Question 74 -> As in many ancient societies, much of the knowledge of ________ came about as priests studied the world to find ways to please the gods.
+	a) Mauritania
+	b) Levant
+	c) Kuwait
+	d) Egypt
+	e) Armenia
+
+Question 75 -> Veins (long streaks) of copper, iron, and bronze were hidden inside desert mountains in the hot Sinai Peninsula, east of ________.
+	a) Kuwait
+	b) Levant
+	c) Mauritania
+	d) Armenia
+	e) Egypt
+
+Question 76 -> If ________ suffered hard times for a long period, the people blamed the pharaoh for angering the gods.
+	a) Kuwait
+	b) Mauritania
+	c) Egypt
+	d) Levant
+	e) Armenia
+
+Question 77 -> For about 500 more years, the kings held ________ together, but with a much weaker central government.
+	a) Armenia
+	b) Mauritania
+	c) Egypt
+	d) Levant
+	e) Kuwait
+
+Question 78 -> In ________, people became slaves if they owed a debt, committed a crime, or were captured in war.
+	a) Kuwait
+	b) Levant
+	c) Egypt
+	d) Mauritania
+	e) Armenia
+
+Question 79 -> Children in ________ played with toys such as dolls, animal figures, board games, and marbles.
+	a) Levant
+	b) Kuwait
+	c) Mauritania
+	d) Armenia
+	e) Egypt
+
+Question 80 -> The first rulers of ________ were often buried in an underground tomb topped by mud brick.
+	a) Mauritania
+	b) Egypt
+	c) Levant
+	d) Armenia
+	e) Kuwait
+
+Question 81 -> ________ was one of the best places in the ancient world to be a woman.
+	a) Armenia
+	b) Kuwait
+	c) Levant
+	d) Egypt
+	e) Mauritania
+
+Question 82 -> After ________ was united, its ruler wore the Double Crown.
+	a) Mauritania
+	b) Egypt
+	c) Kuwait
+	d) Levant
+	e) Armenia
+
+Question 83 -> The king of ________ became known as the pharaoh pharaoh.
+	a) Mauritania
+	b) Egypt
+	c) Kuwait
+	d) Armenia
+	e) Levant
+
+Question 84 -> One of the highest jobs in ________ was to be a priest.
+	a) Levant
+	b) Armenia
+	c) Kuwait
+	d) Mauritania
+	e) Egypt
+
+Question 85 -> The parts of ________ not near the Nile were a desert.
+	a) Egypt
+	b) Levant
+	c) Armenia
+	d) Kuwait
+	e) Mauritania
+
+Question 86 -> ________ also created an army to defend itself.
+	a) Mauritania
+	b) Egypt
+	c) Armenia
+	d) Kuwait
+	e) Levant
+
+Question 87 -> Weather in ________ was almost always the same.
+	a) Mauritania
+	b) Egypt
+	c) Kuwait
+	d) Levant
+	e) Armenia
+
+Question 88 -> As ________ grew, so did its need to organize.
+	a) Kuwait
+	b) Armenia
+	c) Levant
+	d) Egypt
+	e) Mauritania
+
+Question 89 -> ________’s economy depended on farming.
+	a) Egypt
+	b) Levant
+	c) Mauritania
+	d) Armenia
+	e) Kuwait
+
+Question 90 -> ________ prospered along the Nile.
+	a) Egypt
+	b) Kuwait
+	c) Armenia
+	d) Levant
+	e) Mauritania
+
+Question 91 -> The ________ coast was swampy and lacked good harbors.
+	a) islands
+	b) Iberia
+	c) Mediterranean
+	d) far east
+	e) Malacca
+
+Question 92 -> Agricultural ________ By about 2400 B.C., farmers used technology to expand their farmland.
+	a) Techniques
+	b) more advanced techniques
+	c) new technique
+	d) own techniques
+	e) same techniques
+
+Question 93 -> These innovative, or new, ________ gave them more farmland.
+	a) same techniques
+	b) more advanced techniques
+	c) Techniques
+	d) new technique
+	e) own techniques
+
+Question 94 -> For example, some ________ learned to be scribes, people whose job was to write and keep records.
+	a) Aryans
+	b) ancient times
+	c) own ancestors
+	d) 2000 years ago
+	e) Ancient egyptians
+
+Question 95 -> The ________ thought the pharaoh was a child of the gods and a god himself.
+	a) Ancient egyptians
+	b) 2000 years ago
+	c) Aryans
+	d) own ancestors
+	e) ancient times
+
+Question 96 -> ________ also desired gold for its bright beauty.
+	a) Aryans
+	b) own ancestors
+	c) 2000 years ago
+	d) ancient times
+	e) Ancient egyptians
+
